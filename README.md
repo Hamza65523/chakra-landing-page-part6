@@ -3,6 +3,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## Getting Started
 
 First, run the development server:
+<img src="./assests/chakra-header.jpeg" alt="" />
 
 ```bash
 npm run dev
